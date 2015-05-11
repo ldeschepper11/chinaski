@@ -29,4 +29,4 @@ def computepay(h, r):
 
 total_pay = computepay(float(raw_input("Enter Hours: ")), float(raw_input("Enter hourly wage: ")))
 
-print total_pay
+print "This is your income: ", total_pay
